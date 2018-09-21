@@ -1,0 +1,27 @@
+_repo: The-Witches-Dream-Book-and-Fortune-Teller-Embracing-full-and-correct-rules-of-divination-conc__53879
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Noe, A. H.
+    gutenberg_agent_id: '47593'
+    url: http://www.gutenberg.org/2009/agents/47593
+description: ''
+gutenberg_issued: '2017-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53879'
+  lccn: '10034248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dreams'
+- !lcsh 'Fortune-telling'
+- !lcc 'BF'
+- GITenberg
+title: "The Witches' Dream Book; and Fortune Teller\r\nEmbracing full and correct\
+  \ rules of divination concerning dreams and visions, foretelling of future events,\
+  \ their scientific application to physiognomy, palmistry, moles, cards, &c.; together\
+  \ with the application and observance of talismen charms, spells and incantations."
+url: http://www.gutenberg.org/ebooks/53879
